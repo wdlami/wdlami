@@ -5,5 +5,5 @@
 
 -   :video_game: 目前担任 PHP 开发工程师的职位
 -   :monocle_face: 对新奇事务感兴趣，热爱挑战
--   :seedling: 目前正在学习 **Golang**
+-   :seedling: 目前正在学习 **其他语言**
 -   :heart: 爱唱歌🎤 爱运动🏃‍♀️ 爱读书📚
