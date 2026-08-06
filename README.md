@@ -3,7 +3,7 @@
 
 人生海海，山山而川，不过尔尔。
 
--   :video_game: 目前担任 PHP ➡️ Python 开发工程师
+-   :video_game: 目前担任 Python 开发工程师
 -   :monocle_face: 对新奇事务感兴趣，热爱挑战
 -   :seedling: 目前正在学习 **其他语言**
--   :heart: 爱唱歌🎤 爱运动🏃‍♀️ 爱读书📚
+-   :heart: 爱唱歌🎤 爱运动🏃‍♀️ 
